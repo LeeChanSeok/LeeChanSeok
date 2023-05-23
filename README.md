@@ -1,7 +1,7 @@
 <div align=center>
   <h3> Hi there 👋, I'm Chanseok Lee.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChanSeok&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChanSeok&count_private=true)</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=colin0720)](https://solved.ac/colin0720/)
 
   <h4> 🛠 Skills 🛠 </h4>
