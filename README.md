@@ -5,7 +5,7 @@
   
   <h3> Hi there 👋, I'm Chanseok Lee.</h3>
   
-![Chanseok's GitHub stats]([https://github-readme-stats.vercel.app/api?username=LeeChanSeok&count_private=true](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical))
+![Chanseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChanSeok&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=colin0720)](https://solved.ac/colin0720/)
 </br></br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWish-baek&count_bg=%23699142&title_bg=%239FB346&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
